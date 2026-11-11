@@ -7,6 +7,5 @@ started_on: 2025-11-05
 project_docs: 'https://larkspurlabs.example/docs/legacy-metrics-exporter'
 demo_url: 'http://larkspurlabs.example/demos/legacy-metrics-exporter'
 program_brief: 'http://larkspurlabs.example/briefs/legacy-metrics-exporter.pdf'
-code_repo: 'https://github.com/knobbyintens/emails_github_3263_code-legacy-metrics-exporter-c0a70e'
 program_note: 'Approved for public release and available in the public catalog.'
 ---
